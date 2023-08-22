@@ -1,3 +1,11 @@
+# Assignment User Stories
+
+   1. The module needs to be compatible with Magento v2.4.6.
+   2. Users should experience functional address validation while adding addresses from both the My Account page and during the checkout process.
+   3. Auto-complete suggestions for Canadian and US addresses should be available to users.
+    
+
+
 # Pyxl_SmartyStreets
 Using the SmartyStreet SDK this module offers address validation and autocomplete for customer addresses. 
 The validation is performed when a customer adds/edits their address from the Customer Dashboard
